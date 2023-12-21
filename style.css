@@ -1,14 +1,23 @@
-h1{ color: rgb(31, 240, 31);
-    text-align: center;
-   }
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Bungee&family=Farro:wght@700&family=Lexend+Giga:wght@500&family=Luckiest+Guy&family=Slackey&display=swap');
 
-h4{  color: rgb(33, 244, 33);
-       text-align: center;
-      }
-
-     body{
-      background-color: blueviolet;
-     }
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Bungee&family=Farro:wght@700&family=Lexend+Giga:wght@500&family=Luckiest+Guy&family=Playpen+Sans&family=Slackey&display=swap');
 
 
+body{background-color: rgb(3, 10, 87);}
 
+ 
+h1{ 
+   color: rgb(255, 255, 255);
+    font-family: Bungee;
+    font-weight: 900;
+  }
+
+
+div{ text-align: justify;
+    color: rgb(214, 225, 227);
+    font-family: Playpen Sans ;
+    font-weight: 700;}
+
+
+li{ color: rgb(206, 220, 220); }
+    
